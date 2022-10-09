@@ -1,0 +1,4 @@
+DISTRIB_ID=elementary
+DISTRIB_RELEASE=6.1
+DISTRIB_CODENAME=jolnir
+DISTRIB_DESCRIPTION="elementary OS 6 Jólnir"
